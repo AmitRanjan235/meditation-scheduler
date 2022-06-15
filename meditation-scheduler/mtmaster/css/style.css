@@ -1,0 +1,45 @@
+body{
+	background-color: #343a40;
+}
+
+.header_title{
+	margin-top: 1.5rem;
+	font-size: 3.5rem;
+	color: #FFF;
+}
+
+.add_btn{
+	margin-top: 1.9rem; 
+}
+
+.header_section {
+	margin-bottom: 1.5rem;
+}
+
+.form_section {
+	margin-bottom: 1.5rem;
+}
+
+.table_section {
+	margin-bottom: 2rem;
+}
+
+a:link{
+	color: #FFF;
+	text-decoration: none;
+}
+
+a:visited{
+	color: #FFF;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #FFF;
+	text-decoration: none;
+}
+
+a:active{
+	color: #FFF;
+	text-decoration: none;
+}
